@@ -2,9 +2,13 @@
 - There is no word count limit to the question responses. Please share as much or little about yourself as you feel comfortable to.
 - Please make a copy of this file and do not edit this original version.
 - Ensure that your bio file is saved using your identifiable name.
+- Please remove this "Importance notice" section of your bio file once you have completed your bio.
  
-1. **Introduction**
+
+## My TechUp Bio :) 
+1. **Introduce yourself**
    - *Question:* What is your preferred name?
+   - *Sample response:* Hello! my name is  _______
    
 2. **Background:**
    - *Question:* What is your educational background and how did it lead you to a career in tech?
