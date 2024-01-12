@@ -8,7 +8,7 @@
 ## My TechUp Bio :) 
 1. **Introduce yourself**
    - *Question:* What is your preferred name?
-   - *Sample response:* Hello! my name is  _______
+   - *Sample response:* Hello! My name is  _______ .
    
 2. **Background:**
    - *Question:* What is your educational background and how did it lead you to a career in tech?
@@ -31,4 +31,4 @@
    - *Sample Response:* TechUP Women has been a transformative experience, providing me with mentorship and a supportive community. My advice to aspiring women in tech is to never underestimate your abilities and seek out mentorship and networking opportunities.
 
 7. **Networking**
-   - *Question:* Share links to any social platforms you want to connect on (Linkedin, X(Twitter))
+   - *Question:* Share links to any social platforms you want to connect on (LinkedIn, X(Twitter))
