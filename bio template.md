@@ -1,3 +1,8 @@
+## Importance notice
+- There is no word count limit to the question responses. Please share as much or little about yourself as you feel comfortable to.
+- Please make a copy of this file and do not edit this original version.
+- Ensure that your bio file is saved using your identifiable name.
+ 
 1. **Introduction**
    - *Question:* What is your preferred name?
    
