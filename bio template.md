@@ -1,7 +1,7 @@
 ## Importance notice
 - There is no word count limit to the question responses. Please share as much or little about yourself as you feel comfortable to.
 - Please make a copy of this file and do not edit this original version.
-- Ensure that your bio file is saved using your identifiable name.
+- Ensure that your bio file is saved using your identifiable name. Use dashes "-" to separate words and not spaces. 
 - Please remove this "Importance notice" section of your bio file once you have completed your bio.
  
 
